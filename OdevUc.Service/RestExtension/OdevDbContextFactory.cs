@@ -10,8 +10,7 @@ public class OdevContextFactory : IDesignTimeDbContextFactory<OdevDbContext>
     {
         var optionsBuilder = new DbContextOptionsBuilder<OdevDbContext>();
         optionsBuilder.UseSqlServer("Server=localhost; Database=OdevUc; User Id=SA; PassWord=reallyStrongPwd123; Trusted_Connection=True;");
-
-
+        
         return new OdevDbContext(optionsBuilder.Options);
     }
 }
