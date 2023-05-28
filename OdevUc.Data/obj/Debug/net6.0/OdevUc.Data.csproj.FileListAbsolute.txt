@@ -1,0 +1,17 @@
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/bin/Debug/net6.0/OdevUc.Data.deps.json
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/bin/Debug/net6.0/OdevUc.Data.dll
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/bin/Debug/net6.0/OdevUc.Data.pdb
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/bin/Debug/net6.0/OdevUc.Base.dll
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/bin/Debug/net6.0/OdevUc.Base.pdb
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/obj/Debug/net6.0/OdevUc.Data.csproj.AssemblyReference.cache
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/obj/Debug/net6.0/OdevUc.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/obj/Debug/net6.0/OdevUc.Data.AssemblyInfoInputs.cache
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/obj/Debug/net6.0/OdevUc.Data.AssemblyInfo.cs
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/obj/Debug/net6.0/OdevUc.Data.csproj.CoreCompileInputs.cache
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/obj/Debug/net6.0/OdevUc.Data.csproj.CopyComplete
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/obj/Debug/net6.0/OdevUc.Data.dll
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/obj/Debug/net6.0/refint/OdevUc.Data.dll
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/obj/Debug/net6.0/OdevUc.Data.pdb
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/obj/Debug/net6.0/ref/OdevUc.Data.dll
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/bin/Debug/net6.0/OdevUc.Data.runtimeconfig.json
+/Users/mtekin/RiderProjects/OdevUc.Service/OdevUc.Data/obj/Debug/net6.0/OdevUc.Data.genruntimeconfig.cache
